@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamenDavidFrancesch</string>
+    <string name="jugar">Play</string>
+    <string name="salir">Exit</string>
+    <string name="nivel">Level:</string>
+    <string name="introNombre">Inster your name</string>
+    <string name="aciertaSec">Guess the secuence</string>
+    <string name="probar">Guess</string>
+    <string name="lvlfacil">Easy (3 colors)</string>
+    <string name="lvlmid">Medium (5 colors)</string>
+    <string name="lvlhard">Hard (7 colors)</string>
+</resources>

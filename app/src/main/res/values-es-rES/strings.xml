@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenDavidFrancesch</string>
+    <string name="jugar">Jugar</string>
+    <string name="salir">Salir</string>
+    <string name="nivel">Nivel:</string>
+    <string name="introNombre">Introduce tu nombre</string>
+    <string name="aciertaSec">Acierta la secuencia</string>
+    <string name="probar">Probar</string>
+    <string name="lvlfacil">Facil (3 colores)</string>
+    <string name="lvlmid">Medio (5 colores)</string>
+    <string name="lvlhard">Dificil (7 colores)</string>
+</resources>
